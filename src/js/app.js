@@ -87,7 +87,7 @@ function scrollIt(x){
 active = "middle";
 scrollIt(260);
 active = "top";
-scrollIt(130);
+scrollIt(100);
 active = false;
 
 
